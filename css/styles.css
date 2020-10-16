@@ -1,12 +1,32 @@
-body {
+body{
     background-color: wheat;
-}
-h1 {
-    text-align: center;
 }
 h2 {
     text-align: center;
 }
 p{
     text-align: center;
+}
+.my-name {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-style: oblique;
+    text-align: center;
+    margin: 12px;
+    color: brown;
+    padding: 40px;
+    font-size: 342%;
+    box-sizing: border-box;
+}
+.imagesize {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 490px;
+}
+.spacing {
+    padding: 30px;
+}
+.containercolor {
+    background-color: thistle;
 }
