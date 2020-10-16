@@ -22,7 +22,7 @@ p{
     text-align: center;
     color: slategrey;
     padding: 400px;
-    margin: 18px;
+    margin: 25px;
     font-size: 100%;
 }
 .imagesize {
@@ -37,4 +37,10 @@ p{
 }
 .containercolor {
     background-color: thistle;
+}
+img {
+    border: 10px solid #A0A0A0
+}
+.jumbotron {
+    border: 5px solid #A0A0A0
 }
