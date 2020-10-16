@@ -17,6 +17,14 @@ p{
     font-size: 342%;
     box-sizing: border-box;
 }
+.link {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: slategrey;
+    padding: 400px;
+    margin: 18px;
+    font-size: 100%;
+}
 .imagesize {
     display: block;
     margin-left: auto;
