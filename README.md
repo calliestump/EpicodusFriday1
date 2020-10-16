@@ -23,3 +23,6 @@ This is my first attempt at creating an online portfolio; contains interests, ed
 Copyright (c) 2020 Callie Stump
 
 This software is licensed under the MIT license.
+
+#### Link to GitPages
+https://calliestump.github.io/
