@@ -5,7 +5,7 @@
 ### By _Callie Stump_
 
 #### Link to GitPages
-https://calliestump/calliestump.github.io.
+https://calliestump.github.io.
 
 ## Description
 This is my first attempt at creating an online portfolio; contains interests, education, projects and more!
